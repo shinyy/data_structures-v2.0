@@ -138,4 +138,27 @@ $(function(){
 	console.log(customers.toString());
 	
 	displayList(customers)
+	
+	
+	//练习扩展
+//	var arr1=[1,2,3,4,5];
+//	var list1=new list();
+//	for(var i=0;i<arr1.length;i++){
+//		list1.append(arr1[i]);
+//	};
+//	function bigest(element,list){
+//		var largNum=0;
+//		for(list.front();list.hasNext();list.next()){
+//			if(list.getElement()>largNum) largNum=list.getElement();
+//		};
+//		if(element>largNum){
+//			list1.append(element)
+//		};
+//	};
+//	function littlest(element,list){
+//		var smallest;
+//		for(list.front();list.hasNext();list.next()){
+//			if(list.getELement())
+//		}
+//	}
 })
